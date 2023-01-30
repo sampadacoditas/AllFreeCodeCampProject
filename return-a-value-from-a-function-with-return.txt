@@ -1,0 +1,5 @@
+function timesFive(item)
+{
+  return item*5;
+}
+timesFive(5);

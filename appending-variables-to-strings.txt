@@ -1,0 +1,4 @@
+// Change code below this line
+const someAdjective = "sam is a";
+let myStr ="this is";
+myStr+=someAdjective;
